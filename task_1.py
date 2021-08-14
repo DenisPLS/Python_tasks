@@ -6,3 +6,5 @@ def is_year_leap(year):
     return 'False'
 
 print(is_year_leap(int(input('Введите год: '))))
+
+# Изменения
