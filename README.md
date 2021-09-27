@@ -1,2 +1,2 @@
 # Python_tasks
-Python tasks
+Задачи по python
